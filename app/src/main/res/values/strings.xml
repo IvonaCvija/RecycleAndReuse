@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Recycle and Reuse</string>
+    <string name="RecycleAndReuseTV">Recycle and Reuse</string>
+    <string name="HowYouCanHelpButton">How You Can Help</string>
+    <string name="EnvironmentalImpactButton">Environmental Impact</string>
+    <string name="BestRecyclingCountriesButton">Best Recycling Countries</string>
+    <string name="BestRecyclingCountriesTV1">Best Recycling Countries</string>
+    <string name="BestRecyclingCountriesTV2">Germany recycles 56% of their waste. “The Green Dot” is the first-ever duel recycling system in the world for collecting waste from households and businesses and it is funded by industry and waste costs are dependent on the weight of a product that companies make – therefore, the lighter it is, the less money that has to be paid by manufacturers.</string>
+    <string name="BestRecyclingCountriesTV7">Germany</string>
+    <string name="BestRecyclingCountriesTV8">Austria</string>
+    <string name="BestRecyclingCountriesTV9">South Korea</string>
+    <string name="BestRecyclingCountriesTV10">Wales</string>
+    <string name="BestRecyclingCountriesTV11">Switzerland</string>
+    <string name="BestRecyclingCountriesTV3">Any product that has a total organic carbon emission rate of more than 5% is banned, which in effect prevents any packaging from ending up in the ground. As of March 2020, manufacturers in Austria were banned from importing and selling certain types of plastic bags – with retailers unable to issue these types of plastic bags in the country from June 2020.</string>
+    <string name="BestRecyclingCountriesTV4">The only non-European nation in the top five, South Korea had a recycling rate of 53.7% in 2018. China altered its own environmental policy, resulting in staff lay-offs and plastic waste starting to pile up on its streets. These issues lasted for two weeks before the government agreed to provide financial help to the recycling companies.</string>
+    <string name="BestRecyclingCountriesTV5">It’s the smallest country on the list but Wales is flying high when it comes to its 52.2% recycling rate recorded in 2018. Due to constitutional rules set out by the country’s devolved government, its policymakers have a statutory duty to help promote sustainable development.   The recycling system has been so successful, it reached its recycling target of 64% by 2019/2020 four years early.</string>
+    <string name="BestRecyclingCountriesTV6">Rounding off the top five is Switzerland, which had a recycling rate of 49.7% in 2018. Households and businesses pay for any non-recycling waste they produce. This principle is incurred by the public as well as manufacturers, meaning that regular citizens are encouraged to recycle.</string>
+    <string name="BestRecyclingCountriesMoreButton">see more...</string>
+    <string name="RAndRTV2">Teaching people the importance of recycling now will have a great impact on how we will reduce pollution and protect our planet in future. Many of the items used in the home can be recycled. The benefits of recycling include a cleaner environment, the safe disposal of hazardous materials, greater awareness of excess packaging and a careful approach to the use and re-use of materials.</string>
+    <string name="SignsTV1">Signs and their meaning</string>
+    <string name="EnvironmentalImpactTV1">Environmental Impact of Recycling</string>
+    <string name="EnvironmentalImpactTV2">Recycling reduces pollution, saves energy, protects natural resources from being overused and keeps our planet healthy. By cutting down fewer trees and mining less natural resources, we can preserve our ecosystems, protect the plants and animals.</string>
+    <string name="PlayMusicButton">Play Music</string>
+    <string name="EnvironmentalImpactTV3">By recycling paper, we save forests. By recycling plastic, we produce less general waste. By recycling metal, we reduce the need to mine new ore. By recycling glass, we reduce the use of sand.</string>
+    <string name="EnvironmentalImpactTV4">Reusing material uses less energy than when we create it from raw material. For example, recycling one glass bottle saves enough power to light a 100-watt light bulb for four hours.</string>
+    <string name="EnvironmentalImpactTV5">Recycling reduces carbon emissions and carbon footprint by taking up less energy. Carbon footprint is the total carbon dioxide released due to your individual activities. Recycling reduces carbon emissions by reducing the energy used to create new materials.</string>
+    <string name="EnvironmentalImpactTV6">Here you can calculate your carbon footprint</string>
+    <string name="YouHelpTV1">How you can help</string>
+    <string name="YouHelpTV2">People come together and organize recycling events. They clean their towns or cities and gather donations for schools, hospitals, charities, and more. Take part in these events or help organize them.</string>
+    <string name="YouHelpTV3">Use reusable bags, bring your coffee takeaway cup, buy and sell your clothes, avoid plastic water bottles, clean and dry before recycling, and more.</string>
+    <string name="YouHelpTV4">Take a part in the CIRCULAR ECONOMY. Reuse and recycling are at the heart of the Circular Economy, the European strategy aimed at maintaining the value of products, materials and resources within the economy for as long as possible, and to minimise the generation of waste. It is an opportunity to do more with less, better use available resources and reduce waste in the first place while promoting new forms of employment and tackling inequality.</string>
+    <string name="YouHelpButton">Learn more about circular economy...</string>
+    <string name="YouHelpTV5">Click on the recycling sign to learn more about signs</string>
+    <string name="SignsTV2">Recycling symbols now appear on everyday items and packaging to keep you in the loop. The symbols will let you know if a product can or can’t be recycled.  It’s important that you can identify and understand these symbols so that you can play your part in recycling, always remembering to put the right thing in the right bin, CLEAN, DRY and LOOSE.</string>
+</resources>

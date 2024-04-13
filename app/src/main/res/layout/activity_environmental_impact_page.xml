@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDA15E"
+    tools:context=".EnvironmentalImpactPage">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#DDA15E"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="214dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#DDA15E"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/PlayMusicButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/PlayMusicButton"
+                app:backgroundTint="#283618" />
+
+            <TextView
+                android:id="@+id/EnvironmentalImpactTV1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/EnvironmentalImpactTV1"
+                android:textColor="#000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/EnvironmentalImpactIV1"
+                android:layout_width="match_parent"
+                android:layout_height="232dp"
+                app:srcCompat="@drawable/zemlja" />
+
+            <TextView
+                android:id="@+id/EnvironmentalImpactTV2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/EnvironmentalImpactTV2"
+                android:textColor="#000000" />
+
+            <ImageView
+                android:id="@+id/EnvironmentalImpactIV2"
+                android:layout_width="match_parent"
+                android:layout_height="221dp"
+                app:srcCompat="@drawable/trees" />
+
+            <TextView
+                android:id="@+id/EnvironmentalImpactTV3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/EnvironmentalImpactTV3"
+                android:textColor="#000000" />
+
+            <ImageView
+                android:id="@+id/EnvironmentalImpactIV3"
+                android:layout_width="match_parent"
+                android:layout_height="285dp"
+                app:srcCompat="@drawable/mining" />
+
+            <TextView
+                android:id="@+id/EnvironmentalImpactTV4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/EnvironmentalImpactTV4"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/EnvironmentalImpactTV5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/EnvironmentalImpactTV5"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/EnvironmentalImpactTV6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/EnvironmentalImpactTV6"
+                android:textColor="#283618"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <WebView
+                android:id="@+id/webView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

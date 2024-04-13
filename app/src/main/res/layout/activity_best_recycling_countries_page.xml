@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A0BC44"
+    tools:context=".BestRecyclingCountriesPage">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#A0BC44">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#A0BC44"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV1"
+                android:textColor="#1E221C"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV7"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV2"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/BestRecyclingCountriesIV1"
+                android:layout_width="match_parent"
+                android:layout_height="257dp"
+                android:background="#A0BC44"
+                app:srcCompat="@drawable/germany" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV8"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV3"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/BestRecyclingCountriesIV2"
+                android:layout_width="match_parent"
+                android:layout_height="301dp"
+                android:background="#A0BC44"
+                app:srcCompat="@drawable/austria" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV9"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV4"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/BestRecyclingCountriesIV3"
+                android:layout_width="match_parent"
+                android:layout_height="162dp"
+                android:background="#A0BC44"
+                app:srcCompat="@drawable/southkorea" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV10"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV5"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/BestRecyclingCountriesIV4"
+                android:layout_width="match_parent"
+                android:layout_height="238dp"
+                android:background="#A0BC44"
+                app:srcCompat="@drawable/wales" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV11"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/BestRecyclingCountriesTV6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A0BC44"
+                android:text="@string/BestRecyclingCountriesTV6"
+                android:textColor="#FFFFFF" />
+
+            <ImageView
+                android:id="@+id/BestRecyclingCountriesIV5"
+                android:layout_width="match_parent"
+                android:layout_height="273dp"
+                android:background="#A0BC44"
+                app:srcCompat="@drawable/switzerland" />
+
+            <Button
+                android:id="@+id/BestRecyclingCountriesMoreButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/BestRecyclingCountriesMoreButton"
+                android:textColor="#000000"
+                app:backgroundTint="#C3C3C3" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

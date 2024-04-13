@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDA15E"
+    tools:context=".SignsPage">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#DDA15E"
+        tools:layout_editor_absoluteX="221dp"
+        tools:layout_editor_absoluteY="167dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#DDA15E"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/SignsTV1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/SignsTV1"
+                android:textColor="#1E221C"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/SignsIV1"
+                android:layout_width="match_parent"
+                android:layout_height="221dp"
+                android:background="#DDA15E"
+                app:srcCompat="@drawable/bins" />
+
+            <TextView
+                android:id="@+id/SignsTV2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#DDA15E"
+                android:text="@string/SignsTV2"
+                android:textColor="#1E1919" />
+
+            <ImageView
+                android:id="@+id/SignsIV2"
+                android:layout_width="match_parent"
+                android:layout_height="497dp"
+                app:srcCompat="@drawable/sign1" />
+
+            <ImageView
+                android:id="@+id/SignsIV3"
+                android:layout_width="match_parent"
+                android:layout_height="493dp"
+                app:srcCompat="@drawable/sign2" />
+
+            <ImageView
+                android:id="@+id/SignsIV4"
+                android:layout_width="match_parent"
+                android:layout_height="533dp"
+                app:srcCompat="@drawable/sign3" />
+
+            <ImageView
+                android:id="@+id/SignsIV5"
+                android:layout_width="match_parent"
+                android:layout_height="247dp"
+                app:srcCompat="@drawable/sign4" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
